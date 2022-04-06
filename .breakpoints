@@ -1,0 +1,20 @@
+{
+  "files": {
+    "kolaborasi/library/input.h": [
+      {
+        "id": "b76a0ad6-0911-4541-af55-d6b383455dc3",
+        "line": 28,
+        "version": 467,
+        "index": 858
+      }
+    ],
+    "main.cpp": [
+      {
+        "id": "a4715684-6b55-40f2-a9ec-3817e8ecdbe3",
+        "line": 1,
+        "version": 15,
+        "index": 0
+      }
+    ]
+  }
+}
